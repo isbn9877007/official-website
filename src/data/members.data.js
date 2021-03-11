@@ -49,6 +49,13 @@ const members = [
     githubUrl: 'https://github.com/Lvshaomei',
     blogUrl: 'http://www.lvshaomei.club/',
   }
+  {
+    name: 'Ricard',
+    avatar: 'https://github.com/isbn9877007/isbn9877007.github.io/blob/master/u%3D2352399429%2C506808691%26fm%3D26%26gp%3D0.jpg',
+    description: 'Conquer your fear, and I promise you'll conquer death',
+    githubUrl: 'https://github.com/isbn9877007/isbn9877007.github.io',
+    blogUrl: 'https://github.com/isbn9877007/isbn9877007.github.io',
+  }
 ];
 
 export default members;
